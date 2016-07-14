@@ -24,7 +24,7 @@ def menu():
             c=int(c)
             break
         except:
-            print("error vuelva intentar")
+            print("error vuelva intentar porfavor")
     if(c==2):
         pares(a,b)
     elif(c==3):
