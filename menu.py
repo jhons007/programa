@@ -4,7 +4,7 @@ print("ingrese un rango el primero debe ser menor estrictamente")
 print("ingrese el primer numero")
 a=input()
 a=int(a)
-print("2ingrese el segundo numero")
+print("ingrese el segundo numero")
 b=input()
 b=int(b)
 resp="si"
