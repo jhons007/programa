@@ -19,12 +19,12 @@ def menu():
             print(" 4.- numeros capicua")
             print(" 5.- salir")
             
-            print("INGRESE UN OPCION")
+            print("INGRESE UN OPCION de 1 al 5")
             c=input()
             c=int(c)
             break
         except:
-            print("Vuelva intentar con numero entero")
+            print("error vuelva intentar")
     if(c==2):
         pares(a,b)
     elif(c==3):
